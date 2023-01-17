@@ -1,0 +1,4 @@
+export const LOGIN_IN_PROGRESS = 'LOGIN_IN_PROGRESS'
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const LOGIN_FAILED = 'LOGIN_FAILED'
+export const LOGOUT_USER = 'LOGOUT_USER'

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Nayan Thakor",
+        "email": "thakornayan36@gmail.com",
+        "pass": "testuser@123",
+        "role": "user"
+    },
+    {
+        "name": "Jan Mayham",
+        "email": "mayhamj6@gmail.com",
+        "pass": "testuser@123",
+        "role": "user"
+    },
+    {
+        "name": "Lisa Haiden",
+        "email": "hlisa123@gmail.com",
+        "pass": "testuser@123",
+        "role": "user"
+    },
+    {
+        "name": "Harvey Johnsan",
+        "email": "harveyj123@gmail.com",
+        "pass": "testuser@123",
+        "role": "user"
+    },
+    {
+        "name": "Daisy Glamm",
+        "email": "dgstart44@gmail.com",
+        "pass": "testuser@123",
+        "role": "user"
+    },
+    {
+        "name": "Simon De Luise",
+        "email": "sdluise@gmail.com",
+        "pass": "testuser@123",
+        "role": "admin"
+    }
+]

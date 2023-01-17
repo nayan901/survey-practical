@@ -1,0 +1,37 @@
+[
+    {
+        "question": "What should be the theme color of our product website?",
+        "options": [
+            "White / Blue / Grey",
+            "White / cyan / Grey",
+            "White / Peach",
+            "Black / Grey / White"
+        ],
+        "type": "radio"
+    },
+    {
+        "question": "Webiste should multilingual?",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "type": "radio"
+    },
+    {
+        "question": "Webiste should have LTR/RTL support?",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "type": "radio"
+    },
+    {
+        "question": "What should we name our website?",
+        "options": [
+            "Website 1",
+            "website 2",
+            "website 3"
+        ],
+        "type": "radio"
+    }
+]
